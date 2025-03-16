@@ -92,7 +92,7 @@ my-chat-frontend/
 
 Watch the demo video below for a walkthrough of the chat application:
 
-[![Demo Video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=<VIDEO_ID>)
+https://github.com/user-attachments/assets/4b8d939b-8696-419c-a72d-830c0db8783a
 
 *Replace `<VIDEO_ID>` with your YouTube video ID.*
 
